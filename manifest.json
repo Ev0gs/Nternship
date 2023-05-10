@@ -1,0 +1,47 @@
+{
+    "name": "Nternship",
+    "short_name": "Nternship",
+    "start_url": "/index.php",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/views/assets/PWA_icons/NternshipIcon-96px.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/views/assets/PWA_icons/NternshipIcon-128px.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "/views/assets/PWA_icons/NternshipIcon-144px.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/views/assets/PWA_icons/NternshipIcon-152px.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/views/assets/PWA_icons/NternshipIcon-192px.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/views/assets/PWA_icons/NternshipIcon-384px.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/views/assets/PWA_icons/NternshipIcon-512px.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
